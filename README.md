@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Hakkimda</title>
-</head>
-<body>
+
+
   <h1>Asadullah Torkman</h1>
   <!--- aciklama yazilsi -->
 <!---
@@ -34,5 +28,5 @@ fitnis spor yapmayi cok sevyorm ve kitab okumayi'da sevyorum .</P>
 <p>Benim Kultur meragim ergenlik caglarimda basladi insana ergenlik caglarinde kim oldugu nereden
   geldigini merak etkileri artar. </p> 
 
-</body>
-</html>
+
+
